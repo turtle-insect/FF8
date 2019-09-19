@@ -17,5 +17,5 @@ Switch FF8 SaveDate Converter
 * 「export」する
 * hyne等の編集Toolで編集
    * https://github.com/myst6re/hyne/releases
-* 「inport」する
+* 「import」する
 * saveDataを書き戻す
