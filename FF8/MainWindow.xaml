@@ -17,6 +17,7 @@
             <StackPanel Orientation="Horizontal" DockPanel.Dock="Top">
                 <RadioButton x:Name="Export" Content="Export" IsChecked="True"/>
                 <RadioButton Content="Import"/>
+                <CheckBox x:Name="chkTinfoil" Content="Tinfoil" Margin="10,0,0,0"/>
             </StackPanel>
             <Button Content="Run" Click="ButtonRun_Click"/>
         </DockPanel>
