@@ -1,3 +1,5 @@
+![DL Count](https://img.shields.io/github/downloads/turtle-insect/FF8/total.svg)
+
 # FF8
 Switch FF8 SaveDate Converter
 
